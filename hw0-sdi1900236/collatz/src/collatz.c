@@ -1,3 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+#define RANGE 100000000
+
 int main( int argc, char **argv )
 {
   int i, j, minN, maxN, max_length = 0;
